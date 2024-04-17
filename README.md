@@ -1,4 +1,6 @@
-This repo was made for the event `FabLab Hands-on Open House - Arduino Edition`, for new students of 42 Berlin to get to the know the FabLab and especially the 'clean lab'. Over the course of a few hours, we will build a project together which involves some fabrication (3D printing, laser cutting, soldering, glue/paper/scissors). As part of the process we will get know:
+Welcome to the `FabLab Hands-on Open House - Arduino Edition` :wave: This event is for new students of 42 Berlin to get to the know the FabLab and especially the 'clean lab'.
+
+Over the course of a few hours, we will build a project together which involves some fabrication (3D printing, laser cutting, soldering, glue/paper/scissors). As part of the process we will get know:
 
 - the different types of Arduino, components and sensors we have the lab and how to use them
 - how to upload code to an Arduino using the Arduino IDE 
